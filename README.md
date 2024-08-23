@@ -1,4 +1,4 @@
-Equipe: Eduardo Morel e Guilherme Ferrari (1134835)/()
+Equipe: Eduardo Morel e Guilherme Ferrari (1134835)/(1134330)
 
 Este projeto demonstra a utilização de múltiplas threads em Python para realizar tarefas simultâneas. Duas funções diferentes são executadas em threads separadas:
 
