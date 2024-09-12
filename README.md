@@ -7,4 +7,4 @@ Este projeto demonstra a utilização de múltiplas threads em Python para reali
 
 Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/eduardoh-morel/threads-python.git
